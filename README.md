@@ -1,2 +1,1 @@
-Open-Source Minecraft launcher with daily update 
-s
+Open-Source Minecraft launcher with daily updates
